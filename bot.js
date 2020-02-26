@@ -83,4 +83,4 @@ client.on('message', message => {
 	}
 });
  
-client.login('NjgyMDEwMjQ1NjY0MzQyMTU4.XlbskQ.9de7YOnkutXJhfeLWdPmLKwUj2c'); //Bot Token 
+client.login('NjgyMDEwMjQ1NjY0MzQyMTU4.XlbzLg.jup4h0p5uShxea38zCT3QqRcoXU'); //Bot Token 
